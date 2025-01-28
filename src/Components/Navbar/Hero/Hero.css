@@ -1,0 +1,11 @@
+.hero{
+   width: 100%;
+   min-height: 100vh;
+   background:linear-gradient(rgba(81, 44, 4, 0.7),rgba(169, 205, 8, 0.7)), url('../../../assets/he1ro.png');
+   background-size: cover;
+   background-position: center;
+   color: white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
